@@ -14,7 +14,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. Perform forward elimination to convert the matrix into upper triangular form
 5. Apply back substitution to calculate the values of the unknown variables.
 6. Display the solutions of all variables and stop the program.
-7. print th2e final result 
+7. print the final result 
 
 ## Program:
 ```
